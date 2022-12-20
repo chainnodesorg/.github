@@ -26,7 +26,7 @@
 
 <br>
 
-[Chainnodes.org](https://www.chainnodes.org) is a Reliable and Affordable Web3 Infrastructure. Ethereum, Polygon, Optimism and other APIs for Developers & Decentralized Apps.
+[Chainnodes.org](https://www.chainnodes.org) is a provider of Reliable and Affordable Web3 Infrastructure. Ethereum, Polygon, Optimism and other APIs for Developers & Decentralized Apps.
 
 With Chainnodes.org you get affordable access to Ethereum, Polygon, Optimism, Arbitrum, BSC JSON RPC nodes and WebSockets APIs.
 
